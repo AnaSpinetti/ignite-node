@@ -1,0 +1,4 @@
+Anotações: 
+* iniciar o prisma: `npx prisma init --datasource-provider SQLite`
+* Criando tabela no prisma: `npx prisma migrate dev`
+* Para abrir o banco no navegador: `npx prisma studio` 
